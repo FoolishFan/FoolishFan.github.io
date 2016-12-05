@@ -1,23 +1,23 @@
 # Site settings
-title: FoolishFan Blog
-SEOTitle:   FoolishFan Blog
+title: SixKarma Blog
+SEOTitle: 陆道轮回的博客 | SixKarma Blog
 header-img: img/bg-home.jpg
-email: fzcf94@163.com
-description: "懒人，必须强迫给你自己找一点事情做"
-keyword: "Unity3D, 游戏开发, AR, C#"
-url: "fansicheng.cc"              # your host, for absolute URL
-baseurl: 'host/blog'                          # for example, '/blog' if your blog hosted on 'host/blog'
+email: smulhj@126.com
+description: "非主流程序员，写个程序玩玩"
+keyword: "可视化, 虚拟现实, VR, 增强现实, AR, 工业互联网, Industrial internet, 物理信息系统, CPS"
+url: "sixkarma.github.io"              # your host, for absolute URL
+baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 timezone: CN
 
 
 # SNS settings
 RSS: false
 
-weibo_username:     foolishfan
-zhihu_username:     foolishfan
-github_username:    foolishfan
+weibo_username:     3225403912
+zhihu_username:     sixkarma
+github_username:    sixkarma
 #twitter_username:  sixkarma
-facebook_username:  foolishfan
+facebook_username:  sixkarma
 # linkedin_username:  firstname-lastname-idxxxx
 
 
@@ -70,7 +70,7 @@ ga_domain: auto
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "傻是一种态度"
+sidebar-about-description: "热爱生活，体验人生"
 sidebar-avatar: /img/avatar-monkey.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 

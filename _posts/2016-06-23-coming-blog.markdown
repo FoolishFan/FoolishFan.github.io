@@ -2,13 +2,8 @@
 layout:     post
 title:      "Coming,Blog"
 subtitle:   " \"开博第一篇\""
-<<<<<<< HEAD
-date:       2016-12-05 11:04:00
-author:     "FoolishFan"
-=======
 date:       2016-06-23 15:37:00
 author:     "SixKarma"
->>>>>>> parent of 70f54ad... 更改
 header-img: "img/post-bg-2015.jpg"
 catalog: true
 tags:
