@@ -1,13 +1,13 @@
 ---
 layout:     post
 title:      "Coming,Blog"
-subtitle:   " \"开博第一篇\""
-date:       2016-12-05 11:04:00
+subtitle:   " \"开博第一测试\""
+date:       2016-11-05 11:04:00
 author:     "FoolishFan"
 header-img: "img/post-bg-2015.jpg"
 catalog: true
 tags:
-    - 生活
+    - Test
 ---
 
 > “Something should write down firstly. ”
